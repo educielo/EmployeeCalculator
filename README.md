@@ -8,3 +8,4 @@ Future improvement plans
      * Controller Unit testing
            * Add unit tests on the calculations
 * Add implementation for a generic DbContext on the data access part
+* Update dependcies to latest version of .Net
